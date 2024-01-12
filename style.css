@@ -17,8 +17,8 @@ body{
   transform: translate(-50%, -50%);
   top: 50%;
   left: 50%;
-  border-radius: 5px;
-  box-shadow: 20px 20px 40px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  box-shadow: 20px 20px 40px rgba(0,0,0,0.10);
 }
 
 span{
@@ -28,7 +28,7 @@ span{
 }
 
 p{
-font-size: 16px;
+font-size: 25px;
 color: gray;
 font-weight: 400;
 text-align: center;
